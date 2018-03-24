@@ -12,7 +12,7 @@
 //the time does not get displayed over the thumbnail but underneath it. --> fixable in css
 
 //personal youtube api key
-var api_key='AIzaSyDfR4f43kxH2DrYhPlit88Yt6Z8R1ZmEUw';
+var api_key='';
 
 //global variable to store youtube time from inside function
 var global_yttime='';
